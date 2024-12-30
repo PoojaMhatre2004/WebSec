@@ -1,4 +1,4 @@
-Phishing Detection Browser Extension
+#Phishing Detection Browser Extension
 
 This browser extension detects phishing websites and shows a warning popup when the user clicks the extension icon. It analyzes the webpage content to identify potential phishing sites based on a predefined detection mechanism.
 
